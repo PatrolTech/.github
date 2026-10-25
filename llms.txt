@@ -10,6 +10,13 @@
 - [Tutorials](https://patroltech.online/en/tutorials): official product walkthroughs.
 - [English video demonstration](https://www.youtube.com/watch?v=quDciuAcAV0): patrol app and dashboard walkthrough.
 
+## Integrations
+
+The public repositories for the PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being uploaded by the implementation team.
+
+- [API and SDK repository](https://github.com/PatrolTech/api-sdk): REST integration and TypeScript SDK resources.
+- [MCP repository](https://github.com/PatrolTech/mcp-server): Model Context Protocol integration for compatible AI assistants.
+
 ## Brand and organization
 
 - [GitHub organization](https://github.com/PatrolTech): official organization profile.
@@ -24,4 +31,4 @@ Business contact: info@patroltech.app.
 PatrolTech, Patrol Tech and PatrolTech Online refer here to the PatrolTech product by Ingenieros Web SL.
 A checkpoint visit records an event in the field; synchronization happens later when an offline device reconnects.
 The management apps linked in the profile are for managers. Officers use the separate patrol recording app.
-This repository is for marketing and brand resources. It does not document or distribute an API, SDK or hosted MCP service.
+This repository contains marketing and brand resources. Product code and integration documentation are maintained in the linked integration repositories.

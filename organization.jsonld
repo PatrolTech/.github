@@ -27,6 +27,20 @@
         "https://www.instagram.com/patroltechonline/",
         "https://www.facebook.com/patroltechOnline",
         "https://twitter.com/patroltech"
+      ],
+      "subjectOf": [
+        {
+          "@type": "CreativeWork",
+          "name": "PatrolTech API and TypeScript SDK — public repository",
+          "url": "https://github.com/PatrolTech/api-sdk",
+          "description": "Public repository available to everyone; implementation code and documentation are being uploaded."
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "PatrolTech MCP — public repository",
+          "url": "https://github.com/PatrolTech/mcp-server",
+          "description": "Public repository available to everyone; implementation code and documentation are being uploaded."
+        }
       ]
     },
     {

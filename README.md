@@ -12,3 +12,7 @@ This repository contains PatrolTech's public presentation, official product imag
 The product screenshots show a demonstration environment. Product source code and credentials are not part of this marketing repository. The logo and screenshots are official PatrolTech brand assets; publication here does not grant rights to the PatrolTech trademark.
 
 For partnerships, editorial requests or integration enquiries: **info@patroltech.app**.
+
+## Integrations available to everyone
+
+The public repositories for PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being added to [PatrolTech/api-sdk](https://github.com/PatrolTech/api-sdk) and [PatrolTech/mcp-server](https://github.com/PatrolTech/mcp-server).
