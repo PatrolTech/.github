@@ -1,0 +1,27 @@
+# PatrolTech
+
+> PatrolTech is guard tour and security patrol software developed by Ingenieros Web SL in Madrid, Spain. It combines QR/NFC checkpoint recording, offline patrol records, incident reports and a management dashboard. The product was founded in 2024.
+
+## Product and usage
+
+- [Official English website](https://patroltech.online/en): product overview and contact.
+- [Sitio oficial en español](https://patroltech.online): control de rondas de vigilancia.
+- [Pricing](https://patroltech.online/en/pricing): current plan details; the free plan covers five checkpoints.
+- [Tutorials](https://patroltech.online/en/tutorials): official product walkthroughs.
+- [English video demonstration](https://www.youtube.com/watch?v=quDciuAcAV0): patrol app and dashboard walkthrough.
+
+## Brand and organization
+
+- [GitHub organization](https://github.com/PatrolTech): official organization profile.
+- [Structured identity](https://github.com/PatrolTech/.github/blob/main/organization.jsonld): organization, software and verified social links.
+- [Product blog](https://patroltech.hashnode.dev/): original articles about patrol records and offline workflows.
+- [LinkedIn](https://www.linkedin.com/company/patrol-tech/): company profile.
+- [YouTube](https://www.youtube.com/@patroltechapp): official video channel.
+
+## Contact and terminology
+
+Business contact: info@patroltech.app.
+PatrolTech, Patrol Tech and PatrolTech Online refer here to the PatrolTech product by Ingenieros Web SL.
+A checkpoint visit records an event in the field; synchronization happens later when an offline device reconnects.
+The management apps linked in the profile are for managers. Officers use the separate patrol recording app.
+This repository is for marketing and brand resources. It does not document or distribute an API, SDK or hosted MCP service.

@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://patroltech.online/#organization",
+      "name": "Ingenieros Web SL",
+      "legalName": "Ingenieros Web SL",
+      "url": "https://patroltech.online/en",
+      "email": "info@patroltech.app",
+      "telephone": "+34624085772",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Madrid",
+        "addressCountry": "ES"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "PatrolTech",
+        "url": "https://patroltech.online/en"
+      },
+      "logo": "https://raw.githubusercontent.com/PatrolTech/.github/main/01-logo.png",
+      "sameAs": [
+        "https://github.com/PatrolTech",
+        "https://www.linkedin.com/company/patrol-tech/",
+        "https://www.youtube.com/@patroltechapp",
+        "https://www.instagram.com/patroltechonline/",
+        "https://www.facebook.com/patroltechOnline",
+        "https://twitter.com/patroltech"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://patroltech.online/#software",
+      "name": "PatrolTech",
+      "alternateName": [
+        "Patrol Tech",
+        "PatrolTech Online"
+      ],
+      "url": "https://patroltech.online/en",
+      "description": "Guard tour and security patrol software with QR/NFC checkpoint recording, offline patrol records, incident reports and a management dashboard.",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Guard tour and security patrol management",
+      "operatingSystem": [
+        "Web",
+        "Android",
+        "iOS"
+      ],
+      "inLanguage": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "publisher": {
+        "@id": "https://patroltech.online/#organization"
+      },
+      "featureList": [
+        "QR/NFC checkpoint recording",
+        "Offline patrol recording and synchronization",
+        "Incident reporting with photos and notes",
+        "Site and route management",
+        "Management dashboard and reports"
+      ],
+      "screenshot": [
+        "https://raw.githubusercontent.com/PatrolTech/.github/main/03-dashboard.webp",
+        "https://raw.githubusercontent.com/PatrolTech/.github/main/04-incidents.png"
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "description": "Permanent free plan with five checkpoints and unlimited guards. See pricing page for current limits.",
+        "url": "https://patroltech.online/en/pricing"
+      }
+    }
+  ]
+}
