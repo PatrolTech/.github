@@ -63,6 +63,18 @@ Managers can use the web dashboard or the official mobile management apps:
 
 These are **management apps**. Officers use the separate patrol recording app; the [official tutorials](https://patroltech.online/en/tutorials) explain the workflow.
 
+## Integrations — available to everyone
+
+**The official PatrolTech API, SDK and MCP repositories are public and available to everyone.** Connect PatrolTech to your own applications, development workflows and compatible AI assistants.
+
+| Integration | Public access | Official repository |
+| --- | --- | --- |
+| **REST API / OpenAPI** | **Available to everyone** | [PatrolTech/api-sdk](https://github.com/PatrolTech/api-sdk) |
+| **TypeScript SDK** | **Available to everyone** | [PatrolTech/api-sdk](https://github.com/PatrolTech/api-sdk) |
+| **MCP for AI assistants** | **Available to everyone** | [PatrolTech/mcp-server](https://github.com/PatrolTech/mcp-server) |
+
+**Repository status:** the public repositories are live. Code, installation instructions and technical documentation are being uploaded by the implementation team. For integration questions, contact [info@patroltech.app](mailto:info@patroltech.app).
+
 ## Learn, collaborate and connect
 
 - **Practical reading:** [PatrolTech product blog](https://patroltech.hashnode.dev/) and [offline patrol records: visit time is not sync time](https://patroltech.hashnode.dev/offline-patrol-records-visit-time-is-not-sync-time).
@@ -74,5 +86,7 @@ These are **management apps**. Officers use the separate patrol recording app; t
 ## En español
 
 **PatrolTech es un software de control de rondas de vigilancia**, desarrollado por Ingenieros Web SL en Madrid. Permite registrar visitas a puntos QR/NFC e incidencias, continuar las rondas sin conexión y revisar los registros sincronizados desde un panel de gestión.
+
+**Repositorios de API REST, SDK y MCP disponibles para todos.** [Repositorio API/SDK](https://github.com/PatrolTech/api-sdk) · [Repositorio MCP](https://github.com/PatrolTech/mcp-server). El código y la documentación se están incorporando a los repositorios.
 
 [Conoce PatrolTech](https://patroltech.online) · [Tutoriales](https://patroltech.online/tutorials) · [Planes](https://patroltech.online/pricing) · [Contacto profesional](mailto:info@patroltech.app)
