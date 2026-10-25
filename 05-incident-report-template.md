@@ -2,6 +2,12 @@
 
 A free working template from [PatrolTech](https://patroltech.online/en) for security companies, facilities teams and property managers. Copy the blank fields into your own workflow and adapt them to your site instructions.
 
+## Prefer a printable report?
+
+Use the existing [Incident Report PDF](https://securityguardtour.com/templates/incident-report) and [Daily Activity Report PDF](https://securityguardtour.com/templates/daily-activity-report) from SecurityGuardTour. Request each free PDF with a work email. The [full template collection](https://securityguardtour.com/templates) also includes post orders, a fire-watch log and a guard-tour software RFP.
+
+The Markdown checklist below is a compact companion for teams working in text-based documents.
+
 ## Incident record
 
 | Field | Complete this |
