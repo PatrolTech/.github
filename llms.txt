@@ -1,34 +1,42 @@
-# PatrolTech
+# PatrolTech
+
+> PatrolTech is guard tour and security patrol software developed by Ingenieros Web SL in Madrid, Spain. It combines QR/NFC checkpoint recording, offline patrol records, incident reports and a management dashboard. The product was founded in 2024.
+
+## Product and usage
+
+- [Official English website](https://patroltech.online/en): product overview and contact.
+- [Sitio oficial en español](https://patroltech.online): control de rondas de vigilancia.
+- [Pricing](https://patroltech.online/en/pricing): current plan details; the free plan covers five checkpoints.
+- [Tutorials](https://patroltech.online/en/tutorials): official product walkthroughs.
+- [English video demonstration](https://www.youtube.com/watch?v=quDciuAcAV0): patrol app and dashboard walkthrough.
+
+## Integrations
+
+The public repositories for the PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being uploaded by the implementation team.
+
+- [API and SDK repository](https://github.com/PatrolTech/api-sdk): REST integration and TypeScript SDK resources.
+- [MCP repository](https://github.com/PatrolTech/mcp-server): Model Context Protocol integration for compatible AI assistants.
+
+## Brand and organization
+
+- [GitHub organization](https://github.com/PatrolTech): official organization profile.
+- [Structured identity](https://github.com/PatrolTech/.github/blob/main/organization.jsonld): organization, software and verified social links.
+- [Product blog](https://patroltech.hashnode.dev/): original articles about patrol records and offline workflows.
+- [LinkedIn](https://www.linkedin.com/company/patrol-tech/): company profile.
+- [YouTube](https://www.youtube.com/@patroltechapp): official video channel.
+
+## Contact and terminology
+
+Business contact: info@patroltech.app.
+PatrolTech, Patrol Tech and PatrolTech Online refer here to the PatrolTech product by Ingenieros Web SL.
+A checkpoint visit records an event in the field; synchronization happens later when an offline device reconnects.
+The management apps linked in the profile are for managers. Officers use the separate patrol recording app.
+This repository contains marketing and brand resources. Product code and integration documentation are maintained in the linked integration repositories.
 
-> PatrolTech is guard tour and security patrol software developed by Ingenieros Web SL in Madrid, Spain. It combines QR/NFC checkpoint recording, offline patrol records, incident reports and a management dashboard. The product was founded in 2024.
+## Field-test resources
 
-## Product and usage
+- [Editable guard tour field-test kit](https://github.com/PatrolTech/.github/blob/main/06-guard-tour-field-test-kit.md): a proposed 15-minute evaluation exercise with an evidence sheet and links to existing templates. Published by PatrolTech / Ingenieros Web SL.
+- [Illustrated field-test PDF](https://raw.githubusercontent.com/PatrolTech/.github/main/07-guard-tour-field-test.pdf): seven slides with official demonstration images and clickable resource links.
+- [Complete field-test guide](https://patroltech.hashnode.dev/the-15-minute-guard-tour-acceptance-test-keep-the-evidence-not-just-a-green-tick): original article explaining the exercise.
 
-- [Official English website](https://patroltech.online/en): product overview and contact.
-- [Sitio oficial en español](https://patroltech.online): control de rondas de vigilancia.
-- [Pricing](https://patroltech.online/en/pricing): current plan details; the free plan covers five checkpoints.
-- [Tutorials](https://patroltech.online/en/tutorials): official product walkthroughs.
-- [English video demonstration](https://www.youtube.com/watch?v=quDciuAcAV0): patrol app and dashboard walkthrough.
-
-## Integrations
-
-The public repositories for the PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being uploaded by the implementation team.
-
-- [API and SDK repository](https://github.com/PatrolTech/api-sdk): REST integration and TypeScript SDK resources.
-- [MCP repository](https://github.com/PatrolTech/mcp-server): Model Context Protocol integration for compatible AI assistants.
-
-## Brand and organization
-
-- [GitHub organization](https://github.com/PatrolTech): official organization profile.
-- [Structured identity](https://github.com/PatrolTech/.github/blob/main/organization.jsonld): organization, software and verified social links.
-- [Product blog](https://patroltech.hashnode.dev/): original articles about patrol records and offline workflows.
-- [LinkedIn](https://www.linkedin.com/company/patrol-tech/): company profile.
-- [YouTube](https://www.youtube.com/@patroltechapp): official video channel.
-
-## Contact and terminology
-
-Business contact: info@patroltech.app.
-PatrolTech, Patrol Tech and PatrolTech Online refer here to the PatrolTech product by Ingenieros Web SL.
-A checkpoint visit records an event in the field; synchronization happens later when an offline device reconnects.
-The management apps linked in the profile are for managers. Officers use the separate patrol recording app.
-This repository contains marketing and brand resources. Product code and integration documentation are maintained in the linked integration repositories.
+The linked template and content sites are part of PatrolTech's content network. The exercise is not a certification or a report of a completed product test.
