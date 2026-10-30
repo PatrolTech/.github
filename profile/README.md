@@ -83,7 +83,7 @@ These are **management apps**. Officers use the separate patrol recording app; t
 | **TypeScript SDK** | **Available to everyone** | [PatrolTech/api-sdk](https://github.com/PatrolTech/api-sdk?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_16) |
 | **MCP for AI assistants** | **Available to everyone** | [PatrolTech/mcp-server](https://github.com/PatrolTech/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_17) |
 
-**Repository status:** the public repositories are live. Code, installation instructions and technical documentation are being uploaded by the implementation team. For integration questions, contact [info@patroltech.app](mailto:info@patroltech.app).
+**Developers:** [API reference](https://patroltech.github.io/sdk-api/) · [TypeScript SDK](https://github.com/PatrolTech/sdk-api) · [MCP connector](https://github.com/PatrolTech/ai-integrations). Webhooks are in development: tell us which events you need at [info@patroltech.app](mailto:info@patroltech.app).
 
 ## Learn, collaborate and connect
 
@@ -97,6 +97,6 @@ These are **management apps**. Officers use the separate patrol recording app; t
 
 **PatrolTech es un software de control de rondas de vigilancia**, desarrollado por Ingenieros Web SL en Madrid. Permite registrar visitas a puntos QR/NFC e incidencias, continuar las rondas sin conexión y revisar los registros sincronizados desde un panel de gestión.
 
-**Repositorios de API REST, SDK y MCP disponibles para todos.** [Repositorio API/SDK](https://github.com/PatrolTech/api-sdk?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_27) · [Repositorio MCP](https://github.com/PatrolTech/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_28). El código y la documentación se están incorporando a los repositorios.
+**Repositorios de API REST, SDK y MCP disponibles para todos.** [Repositorio API/SDK](https://github.com/PatrolTech/api-sdk?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_27) · [Repositorio MCP](https://github.com/PatrolTech/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_28). Referencia de la API en [patroltech.github.io/sdk-api](https://patroltech.github.io/sdk-api/). Los webhooks están en desarrollo: cuéntanos qué eventos necesitas en [info@patroltech.app](mailto:info@patroltech.app).
 
 [Conoce PatrolTech](https://patroltech.online?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_29) · [Tutoriales](https://patroltech.online/tutorials?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_30) · [Planes](https://patroltech.online/pricing?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=org_profile_31) · [Contacto profesional](mailto:info@patroltech.app)
