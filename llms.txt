@@ -12,10 +12,12 @@
 
 ## Integrations
 
-The public repositories for the PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being uploaded by the implementation team.
+The public repositories for the PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Webhooks are in development: integrators tell us which events they need at info@patroltech.app.
 
-- [API and SDK repository](https://github.com/PatrolTech/api-sdk): REST integration and TypeScript SDK resources.
+- [API reference](https://patroltech.github.io/sdk-api/): interactive documentation of the public REST API, built from the OpenAPI contract at https://api.patroltech.online/openapi.public.json (importable in Postman, Bruno or Insomnia).
+- [API and SDK repository](https://github.com/PatrolTech/sdk-api): REST integration and TypeScript SDK resources.
 - [MCP repository](https://github.com/PatrolTech/mcp-server): Model Context Protocol integration for compatible AI assistants.
+- [MCP connector and agent skill](https://github.com/PatrolTech/ai-integrations): installation for Claude, ChatGPT, Cursor, Gemini and other MCP clients.
 
 ## Brand and organization
 
