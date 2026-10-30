@@ -15,7 +15,7 @@ For partnerships, editorial requests or integration enquiries: **info@patroltech
 
 ## Integrations available to everyone
 
-The public repositories for PatrolTech REST API, TypeScript SDK and MCP are available to everyone. Code and documentation are being added to [PatrolTech/api-sdk](https://github.com/PatrolTech/api-sdk?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=repo_readme_35) and [PatrolTech/mcp-server](https://github.com/PatrolTech/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=repo_readme_36).
+The public repositories for PatrolTech REST API, TypeScript SDK and MCP are available to everyone. API reference: [patroltech.github.io/sdk-api](https://patroltech.github.io/sdk-api/). Code: [PatrolTech/sdk-api](https://github.com/PatrolTech/sdk-api?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=repo_readme_35) and [PatrolTech/mcp-server](https://github.com/PatrolTech/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=evergreen_profiles&utm_content=repo_readme_36).
 
 ## Free guard tour field-test kit
 
